@@ -9,4 +9,4 @@ VolumeControl.py:
 
 WebStreaming.py: 
 * Executa o controle de volume em uma interface web 
-* Para executar: 'python WebStreaming.py --ip 0.0.0.0 --port 8000'
+* Para executar: **python WebStreaming.py --ip 0.0.0.0 --port 8000**
