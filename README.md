@@ -1,7 +1,7 @@
 # Reconhecimento de Gestos
 Arquivos na pasta HandRecognition:
 
-## HandTrackingModule.py: 
+* HandTrackingModule.py: 
 Módulo com a classe HandDetector
 
 ## VolumeControl.py: 
