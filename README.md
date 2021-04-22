@@ -6,6 +6,7 @@ HandTrackingModule.py:
 
 VolumeControl.py: 
 * Executa o controle de volume
+* O controle do volume é feito utilizando os dedos polegar e indicador (reconhece uma mão apenas)
 
 WebStreaming.py: 
 * Executa o controle de volume em uma interface web 
