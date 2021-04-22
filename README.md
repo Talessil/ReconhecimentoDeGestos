@@ -5,4 +5,4 @@ Arquivos na pasta HandRecognition:
 
 * VolumeControl.py: Executa o controle de volume
 
-* WebStreaming.py: Executa o controle de volume em uma interface web -> **para rodar: 'python WebStreaming.py --ip 0.0.0.0 --port 8000' **
+* WebStreaming.py: Executa o controle de volume em uma interface web -> **para rodar: 'python WebStreaming.py --ip 0.0.0.0 --port 8000'**
